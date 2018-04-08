@@ -1,1 +1,1 @@
-# demo-grav-learn2-git-sync
+# Groking Ehtereum & Solidity by the Grock team Charles Finney Troosey 
